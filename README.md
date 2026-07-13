@@ -74,7 +74,7 @@ The model was evaluated using:
 
 ### Sample Predictions
 
-![Predictions](Custom_Digit_Prediction(2).png)
+![Predictions](Screenshots/Custom_Digit_Prediction(2).png)
 
 ### Confusion Matrix
 
